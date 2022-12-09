@@ -1,3 +1,9 @@
-baseURL: http://example.org/
+baseURL: http://bram.vanmeurs.dev/
 languageCode: en-us
-title: Bram's website
+title: bram.vanmeurs.dev
+theme: "PaperMod"
+
+params:
+    homeInfoParams:
+        Title: Welcome to my website
+        Content: A blog about tech, Python and MLOps
